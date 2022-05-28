@@ -10,5 +10,5 @@
   </p>
 </p>
 
-<img src="https://github.com/Archit-pandey25/Moody/blob/main/Moody_Canvas.png" width="100%">
+<img src="https://github.com/VedanshArun/Todo-List---A-React-Native-Project/blob/main/GITHUB_MARKDOWN_PIC.png" width="100%">
 
